@@ -1,5 +1,9 @@
 # EduTrack – Student Academic Management System
 
+**Student Name:** Numan Rashid  
+**Registration Number:** 24BEC10037  
+**Course:** Programming in Java
+
 A command-line Java application developed as an Object-Oriented Programming course project.
 
 ## What the project does
@@ -117,6 +121,9 @@ data/enrollments.txt
 
 These files are intentionally simple text files so the application can run without a database.
 
-## Important
 
-Before academic submission, replace any placeholder student information with your own information and test the project yourself. Keep only features and claims that you can demonstrate.
+## Student Submission Information
+
+**Student Name:** Numan Rashid  
+**Registration Number:** 24BEC10037  
+**Course:** Programming in Java

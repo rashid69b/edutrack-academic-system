@@ -6,10 +6,10 @@
 EduTrack – Student Academic Management System
 
 ## 2. Student Details
-- Name: __________________
-- Registration Number: __________________
-- Course: __________________
-- Date: __________________
+- Name: Numan Rashid
+- Registration Number: 24BEC10037
+- Course: Programming in Java(OOP)
+- Date: September 2026
 
 ## 3. Abstract
 Write a short description of the problem, the Java CLI solution, the main modules, and the OOP concepts demonstrated.

@@ -1,6 +1,5 @@
 # EduTrack – Student Academic Management System
 
-> **Fill in your own student details before submission.**
 
 ## 1. Title
 EduTrack – Student Academic Management System
